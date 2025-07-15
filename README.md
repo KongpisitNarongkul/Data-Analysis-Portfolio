@@ -1,2 +1,7 @@
 # Data-Analysis-Portfolio
-A collection of my data analytics works including SQL queries, Excel dashboards, R visualizations, and data storytelling projects. This portfolio showcases my practical skills in analyzing, cleaning, and presenting data using various tools and techniques. 
+👋 Hi, I’m Kongpisit
+
+Welcome to my personal data analysis portfolio!  
+This repository contains a collection of projects I've worked on as I build my skills in data analytics using tools like **SQL**, **R**, **Excel**, and **data visualization**.
+
+I created this space to not only track my progress, but to share how I solve data problems in simple, human-centered ways.
